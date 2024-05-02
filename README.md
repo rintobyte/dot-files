@@ -4,19 +4,19 @@
 
 This is where I store all of my dotfiles. Copy if you wish.
 
-# Software I use
+## Software I use
 - Operating System: [EndeavourOS](https://endeavouros.com/)
 - Desktop Environment: [KDE Plasma 6](https://kde.org/plasma-desktop/)
 - Terminal: [Konsole](https://github.com/KDE/konsole)
 - File Manager: [Dolphin](https://github.com/KDE/dolphin)
 - Video Player: [mpv](https://github.com/mpv-player/mpv)
 
-# Laptop Specs
+## Laptop Specs
 - CPU: AMD Ryzen 5 5600H
 - GPU: RTX 3050 (6 GB Model)
 - Screen: 120hz, 16"
 
-# Peripherals
+## Peripherals
 - Mouse: Roccat Kone Pure Ultra
 - Keyboard: Custom build
 - Monitor 1: 144hz, 24"
