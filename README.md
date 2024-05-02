@@ -8,3 +8,14 @@ This is where I store all of my dotfiles. Copy if you wish.
 - Terminal: [Konsole](https://github.com/KDE/konsole)
 - File Manager: [Dolphin](https://github.com/KDE/dolphin)
 - Video Player: [mpv](https://github.com/mpv-player/mpv)
+
+# Laptop Specs
+- CPU: AMD Ryzen 5 5600H
+- GPU: RTX 3050 (6 GB Model)
+- Screen: 120hz, 16"
+
+# Peripherals
+- Mouse: Roccat Kone Pure Ultra
+- Keyboard: Custom build
+- Monitor 1: 144hz, 24"
+- Monitor 2: 75hz, 27"
